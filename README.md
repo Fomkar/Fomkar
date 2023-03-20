@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%B6mer-karag%C3%B6z-48002714b/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ömer-karagöz-48002714b/) 
 <p align="left">
 
 
