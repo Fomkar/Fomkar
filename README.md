@@ -2,6 +2,8 @@
 <h3 align="center">A passionate researcher in Image Processing and deep learning</h3>
 
 
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fomkar&label=Profile%20views&color=0e75b6&style=flat" alt="fomkar" /> </p>
 
 - 🌱 I’m currently learning **Python , Pyqt , C++ , FPGA**
@@ -11,10 +13,14 @@
 - 📫 How to reach me **karagozo240@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%B6mer-karag%C3%B6z-48002714b/) 
 <p align="left">
+
+
 <a href="https://linkedin.com/in/ömer-karagöz-48002714b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ömer-karagöz-48002714b" height="30" width="40" /></a>
 <a href="https://instagram.com/fomkar44" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fomkar44" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/bilimhane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bilimhane" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/bilimhane6777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bilimhane" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
